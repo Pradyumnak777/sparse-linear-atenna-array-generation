@@ -1,5 +1,5 @@
 # sparse-linear-atenna-array-generation
-This python code attempts to exhaustively generate all sparse linear antenna arrays with weight = 1.
+This python code attempts to generate a sparse linear antenna array (of weight = 1) with the highest aperture, for a given array size.
 
 As the size of the array increases, the time taken to generate more solutions also incraeses exponentially. 
 
